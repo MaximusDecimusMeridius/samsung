@@ -1,0 +1,277 @@
+CODE BOOK – UCI HAR Data set
+
+subject      2                                
+Subject ID
+1..30
+activity           18                
+Activity Label
+	"walking"
+"walking upstairs"
+"walking downstairs"
+"sitting"
+"standing"
+"laying"
+
+body accelerometer mean x-axis    17
+                  Mean of body accelerometer measurement along x-axis                          
+-1.0..1.0
+
+body accelerometer mean y-axis     20
+                     Mean of body accelerometer measurement along y-axis                          
+-1.0..1.0
+
+body accelerometer mean z-axis   19
+                       Mean of body accelerometer measurement along z-axis                          
+-1.0..1.0
+
+body accelerometer standard deviation x-axis       20
+     Standard deviation of body accelerometer measurement along x-axis            
+-1.0..1.0
+
+body accelerometer standard deviation y-axis  20
+          Standard deviation of body accelerometer measurement along y-axis            
+-1.0..1.0
+
+body accelerometer standard deviation z-axis      20
+      Standard deviation of body accelerometer measurement along z-axis            
+-1.0..1.0
+
+gravity accelerometer mean x-axis	18
+                       Mean of gravity accelerometer measurement along x-axis                       
+-1.0..1.0
+
+gravity accelerometer mean y-axis         19
+              Mean ofgravity accelerometer measurement along y-axis                       
+-1.0..1.0
+
+gravity accelerometer mean z-axis     20
+                  Mean ofgravity accelerometer measurement along z-axis                       
+-1.0..1.0
+
+gravity accelerometer standard deviation x-axis    18
+     Standard deviation ofgravity accelerometer measurement along x-axis         
+-1.0..1.0
+
+gravity accelerometer standard deviation y-axis         18
+Standard deviation ofgravity accelerometer measurement along y-axis         
+-1.0..1.0
+
+gravity accelerometer standard deviation z-axis     18
+    Standard deviation ofgravity accelerometer measurement along z-axis         
+-1.0..1.0
+
+body accelerometer jerk mean x-axis          18
+           Mean ofbody accelerometer jerk measurement along x-axis                     
+-1.0..1.0
+
+body accelerometer jerk mean y-axis      21
+               Mean ofbody accelerometer jerk measurement along y-axis                     
+-1.0..1.0
+
+body accelerometer jerk mean z-axis    21
+                 Mean ofbody accelerometer jerk measurement along z-axis                     
+-1.0..1.0
+
+body accelerometer jerk standard deviation x-axis   20
+    Standard deviation ofbody accelerometer jerk measurement along x-axis       
+-1.0..1.0
+
+body accelerometer jerk standard deviation y-axis    19
+  	 Standard deviation ofbody accelerometer jerk measurement along y-axis       
+-1.0..1.0
+
+body accelerometer jerk standard deviation z-axis      19
+ 	Standard deviation ofbody accelerometer jerk measurement along z-axis       
+-1.0..1.0
+
+body gyroscope mean x-axis               20
+               Mean ofbody gyroscope measurement along x-axis                              
+-1.0..1.0
+
+body gyroscope mean y-axis          20
+             Mean ofbody gyroscope measurement along y-axis                              
+-1.0..1.0
+
+body gyroscope mean z-axis   21
+            Mean ofbody gyroscope measurement along z-axis                              
+-1.0..1.0
+
+body gyroscope standard deviation x-axis     19
+           Standard deviation ofbody gyroscope measurement along x-axis                
+-1.0..1.0
+
+body gyroscope standard deviation y-axis    19
+            Standard deviation ofbody gyroscope measurement along y-axis                
+-1.0..1.0
+
+body gyroscope standard deviation z-axis     19
+           Standard deviation ofbody gyroscope measurement along z-axis                
+-1.0..1.0
+
+body gyroscope jerk mean x-axis        19
+                 Mean ofbody gyroscope jerk measurement along x-axis                         
+-1.0..1.0
+
+body gyroscope jerk mean y-axis  19
+                       Mean ofbody gyroscope jerk measurement along y-axis                         
+-1.0..1.0
+
+body gyroscope jerk mean z-axis             20
+            Mean ofbody gyroscope jerk measurement along z-axis                         
+-1.0..1.0
+
+body gyroscope jerk standard deviation x-axis           18
+Standard deviation ofbody gyroscope jerk measurement along x-axis           
+-1.0..1.0
+
+body gyroscope jerk standard deviation y-axis        19
+   	Standard deviation ofbody gyroscope jerk measurement along y-axis           
+-1.0..1.0	
+
+body gyroscope jerk standard deviation z-axis           19
+Standard deviation ofbody gyroscope jerk measurement along z-axis           
+-1.0..1.0
+
+body accelerometer magnitude mean            21
+           Standard deviation of body accelerometer magnitude measurement
+-1.0..1.0
+
+body accelerometer magnitude standard deviation         19
+Mean of gravity accelerometer magnitude measurement
+-1.0..1.0	
+
+gravity accelerometer magnitude mean        21
+            Standard deviation of gravity accelerometer magnitude measurement
+-1.0..1.0
+
+gravity accelerometer magnitude standard deviation      19
+Mean of body accelerometer jerk magnitude measurement
+-1.0..1.0
+
+body accelerometer jerk magnitude mean        19
+          Standard deviation of body accelerometer jerk magnitude measurement
+-1.0..1.0
+
+body accelerometer jerk magnitude standard deviation    19
+Mean of body gyroscope magnitude measurement
+-1.0..1.0
+
+body gyroscope magnitude mean           19
+                Standard deviation of body gyroscope magnitude measurement
+-1.0..1.0
+
+body gyroscope magnitude standard deviation             19
+Mean of body gyroscope jerk magnitude measurement
+-1.0..1.0
+
+body gyroscope jerk magnitude mean       19
+               Standard deviation of body gyroscope jerk magnitude measurement
+-1.0..1.0
+
+body gyroscope jerk magnitude standard deviation        19
+Standard deviation of body gyroscope jerk magnitude measurement
+-1.0..1.0
+
+fft body accelerometer mean x-axis      19
+                Mean of fft body accelerometer measurement along x-axis                      
+-1.0..1.0
+
+fft body accelerometer mean y-axis           20
+           Mean of fft body accelerometer measurement along y-axis                      
+-1.0..1.0
+
+fft body accelerometer mean z-axis             19
+         Mean of fft body accelerometer measurement along z-axis                      
+-1.0..1.0
+
+fft body accelerometer standard deviation x-axis        20
+Standard deviation of fft body accelerometer measurement along x-axis        
+-1.0..1.0
+
+fft body accelerometer standard deviation y-axis        20
+Standard deviation of fft body accelerometer measurement along y-axis        
+-1.0..1.0
+
+fft body accelerometer standard deviation z-axis        19
+Standard deviation of fft body accelerometer measurement along z-axis        
+-1.0..1.0
+
+fft body accelerometer jerk mean x-axis       20
+          Mean of fft body accelerometer jerk measurement along x-axis                 
+-1.0..1.0
+
+fft body accelerometer jerk mean y-axis                20
+ 	Mean of fft body accelerometer jerk measurement along y-axis                 
+-1.0..1.0	
+
+fft body accelerometer jerk mean z-axis       19
+          Mean of fft body accelerometer jerk measurement along z-axis                 
+-1.0..1.0
+
+fft body accelerometer jerk standard deviation x-axis   20
+Standard deviation of fft body accelerometer jerk measurement along x-axis   
+-1.0..1.0
+
+fft body accelerometer jerk standard deviation y-axis   20
+Standard deviation of fft body accelerometer jerk measurement along y-axis   
+-1.0..1.0
+
+fft body accelerometer jerk standard deviation z-axis   20
+Standard deviation of fft body accelerometer jerk measurement along z-axis   
+-1.0..1.0
+
+fft body gyroscope mean x-axis       19
+                   Mean of fft body gyroscope measurement along x-axis                          
+-1.0..1.0	
+
+fft body gyroscope mean y-axis            19
+              Mean of fft body gyroscope measurement along y-axis                          
+-1.0..1.0
+
+fft body gyroscope mean z-axis       19
+                   Mean of fft body gyroscope measurement along z-axis                          
+-1.0..1.0
+
+fft body gyroscope standard deviation x-axis            18
+Standard deviation of fft body gyroscope measurement along x-axis            
+-1.0..1.0
+
+fft body gyroscope standard deviation y-axis        19
+    Standard deviation of fft body gyroscope measurement along y-axis            
+-1.0..1.0
+
+fft body gyroscope standard deviation z-axis            19
+Standard deviation of fft body gyroscope measurement along z-axis            
+-1.0..1.0
+
+fft body accelerometer magnitude mean   20
+                Mean of fft body accelerometer magnitude measurement
+-1.0..1.0
+
+fft body accelerometer magnitude standard deviation     20
+Standard deviation of fft body accelerometer magnitude measurement
+-1.0..1.0
+
+fft body accelerometer jerk magnitude mean              20
+Mean of fft body accelerometer jerk magnitude measurement
+-1.0..1.0
+
+fft body accelerometer jerk magnitude standard deviation 19
+Standard deviation of fft body accelerometer jerk magnitude measurement
+-1.0..1.0
+
+fft body gyroscope magnitude mean              20
+         Mean of fft body gyroscope magnitude measurement
+-1.0..1.0
+
+fft body gyroscope magnitude standard deviation         18
+Standard deviation of fft body gyroscope magnitude measurement
+-1.0..1.0
+
+fft body gyroscope jerk magnitude mean          19
+        Mean of fft body gyroscope jerk magnitude measurement
+-1.0..1.0
+
+fft body gyroscope jerk magnitude standard deviation	19
+Standard deviation of fft body gyroscope jerk magnitude measurement
+-1.0..1.0
